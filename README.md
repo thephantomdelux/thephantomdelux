@@ -24,10 +24,9 @@ phantomdelux
 root@kali:~# last_login
 $(date '+%a %b %d %H:%M:%S %Y') from terminal
 ```
-🧠 Support Philosophy
+### **🧠 Support Philosophy**
 “A true supporter stands by you not only when the code compiles, but also when the system crashes. I am here — through every successful exploit and every caught exception. The mission continues, win or learn.”
 
-📫 Contact & Connect
 ### 📫 **Contact & Connect**
 
 💬 *I am not active on mainstream social platforms.*  
