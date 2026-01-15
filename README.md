@@ -11,6 +11,19 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="300"/>
 
 ---
+---
+
+## 🔐 **Active Security Project**
+
+### 🛡️ **WebShield Vulnerability Scanner**
+Building an AI-powered web security scanner using Kali Linux tools (Nmap, Nikto, SQLMap, SSLScan).
+
+**Status:** Under active development  
+**Access:** Source code in private organization repo  
+**Support Needed:** Testers & developers welcome
+
+[View Project Portal →](https://github.com/anonymous/webshield-portal)
+*Discord: `thephantomdelux` for collaboration*
 
 ### 📡 **Live Status**
 
@@ -26,6 +39,8 @@ $(date '+%a %b %d %H:%M:%S %Y') from terminal
 ```
 ### **🧠 Support Philosophy**
 “A true supporter stands by you not only when the code compiles, but also when the system crashes. I am here — through every successful exploit and every caught exception. The mission continues, win or learn.”
+
+
 
 ### 📫 **Contact & Connect**
 
