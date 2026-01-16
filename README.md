@@ -4,7 +4,7 @@
 
 ### ⚡ **Currently**
 
-🔭 **Current Operation:** Red time selected – constructor phase.  
+🔭 **Current Operation:** Red team selected – constructor phase.  
 🌱 **Developing:** Core protocols and silent modules.  
 ⚡ **Mode:** Invisible by design, effective by nature.
 
