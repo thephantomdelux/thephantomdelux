@@ -8,7 +8,7 @@
 🌱 **Developing:** Core protocols and silent modules.  
 ⚡ **Mode:** Invisible by design, effective by nature.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="300"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thephantomdelux&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="300"/>
 
 ---
 ---
