@@ -22,7 +22,7 @@ Building an AI-powered web security scanner using Kali Linux tools (Nmap, Nikto,
 **Access:** Source code in private organization repo  
 **Support Needed:** Testers & developers welcome
 
-[View Project Portal →](https://github.com/anonymousforworld/webshield-portal)
+[View Project Portal →](https://github.com/thephantomdelux/webshield-portal)
 *Discord: `thephantomdelux` for collaboration*
 
 ### 📡 **Live Status**
@@ -34,8 +34,6 @@ anonymous
 root@kali:~# hostname
 phantomdelux
 
-root@kali:~# last_login
-$(date '+%a %b %d %H:%M:%S %Y') from terminal
 ```
 ### **🧠 Support Philosophy**
 “A true supporter stands by you not only when the code compiles, but also when the system crashes. I am here — through every successful exploit and every caught exception. The mission continues, win or learn.”
