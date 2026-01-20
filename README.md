@@ -8,9 +8,6 @@
 🌱 **Developing:** Core protocols and silent modules.  
 ⚡ **Mode:** Invisible by design, effective by nature.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thephantomdelux&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="300"/>
-
----
 ---
 
 ## 🔐 **Active Security Project**
@@ -35,10 +32,6 @@ root@kali:~# hostname
 phantomdelux
 
 ```
-### **🧠 Support Philosophy**
-“A true supporter stands by you not only when the code compiles, but also when the system crashes. I am here — through every successful exploit and every caught exception. The mission continues, win or learn.”
-
-
 
 ### 📫 **Contact & Connect**
 
