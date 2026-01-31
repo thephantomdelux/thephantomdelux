@@ -22,6 +22,9 @@ Building an AI-powered web security scanner using Kali Linux tools (Nmap, Nikto,
 [View Project Portal →](https://github.com/thephantomdelux/webshield-portal)
 *Discord: `thephantomdelux` for collaboration*
 
+## **Try Hack Me Status**
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6068647" style='border:none;'></iframe>
+
 ### 📡 **Live Status**
 
 ```bash
